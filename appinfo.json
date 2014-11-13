@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ginocodel@gmail.com",
+    "longName": "BabyCatcher",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "BabyCatcher",
+    "uuid": "65d27c20-8200-477d-8769-97ab480de7b5",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
